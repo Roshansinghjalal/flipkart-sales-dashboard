@@ -22,10 +22,12 @@ The dashboard helps analyze Flipkart sales performance through multiple perspect
 ## 📁 File Structure
 
 Flipkart-Sales-Dashboard/
-│
-├── Flipkart Sales.xlsx # Main Excel dashboard file with raw data, summaries, and visualizations
-├── README.md # This file
-└── images/ #  Folder for dashboard screenshots if you're using visuals
+
+|── Flipkart Sales.xlsx # Main Excel dashboard file with raw data, summaries, and visualizations
+
+|── README.md # This file
+
+|── images/ #  Folder for dashboard screenshots if you're using visuals
 
 
 ---
@@ -67,3 +69,7 @@ This project is licensed under the [MIT License](LICENSE) - feel free to use or 
 - Flipkart sales dataset (synthetic or anonymized)
 - Excel for analytics & dashboard creation
 
+## 🧑‍💻 Author
+**Roshan Singh Jalal**
+- 💼 Linkedin: https://www.linkedin.com/feed/
+- 📧 Email: roshansinghjalal35@gmail.com
